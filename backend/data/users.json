@@ -1,0 +1,17 @@
+{
+    "Mārtiņš": {
+        "id": "f4ca66e0-2e54-4f32-9072-c1be9889188b",
+        "password_hash": "$2b$12$yKpMovvcDQPCqJp44n6kNeKaO4nMwxBMtKEW/lewgZ6hOE7b3t3a2",
+        "created_at": "2026-04-13T19:08:07.352068"
+    },
+    "testuser": {
+        "id": "89dcb92c-94ba-41e9-8745-1afee54cd979",
+        "password_hash": "$2b$12$NPbPstP98QOIuoXyxOPyEO0NutmRbCu7pSpJPYts/wvRaDFvquldi",
+        "created_at": "2026-04-13T20:16:46.713589"
+    },
+    "testusertestuser": {
+        "id": "fb151a23-8374-4153-aa9a-53615595a2e0",
+        "password_hash": "$2b$12$fODpRrfv9tKSpTxZ/WqHY.2mz22pM5J3lTZqEDJ/wHu5tt/1OUzWi",
+        "created_at": "2026-04-15T17:17:38.300863"
+    }
+}
