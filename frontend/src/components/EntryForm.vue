@@ -26,7 +26,7 @@ const message = ref('')
 const defaultEmotions = [
   'priecīgs', 'noskumis', 'laimīgs', 'nelaimīgs', 'bēdīgs', 
   'spēka pilns', 'noguris', 'noraizējies', 'dusmīgs', 
-  'bailīgs', 'satraukts', 'atpūties', 'jautrs'
+  'bailīgs', 'satraukts', 'atpūties', 'jautrs' 
 ]
 
 const loadEntryData = async (targetDate) => {
